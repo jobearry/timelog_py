@@ -1,6 +1,5 @@
-# FastAPI Jobry
-
-A simple FastAPI project.
+# Timelog API
+A simple FastAPI project for Attendance Management.
 
 ## Setup
 
